@@ -13,8 +13,11 @@ My motto is "go fast and break things" — but I write tests now, so mostly thin
 ## 🧰 Tools I reach for
 
 **Languages:** TypeScript, JavaScript, HTML, CSS, SQL
+
 **Frontend:** React, Next.js, Tailwind CSS, Framer Motion, Vite, Bootstrap
+
 **Backend & data:** Node.js, Supabase, PostgreSQL
+
 **Workflow:** Git/GitHub, Vercel, Figma-to-code, REST APIs
 
 ## 🎯 Currently
