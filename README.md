@@ -1,4 +1,4 @@
-# Hey, I'm Nick 🧙‍♂️
+# Hello world, I'm Nick 🧙‍♂️
 
 Full-stack developer based in Provo, UT. I build web apps with React and TypeScript on the front, and I've been going deeper on the backend — most recently an event-sourced wallet system, because storing a balance is easy and *deriving* one from an immutable event log is way more interesting.
 
@@ -6,7 +6,7 @@ My motto is "go fast and break things" — but I write tests now, so mostly thin
 
 ## 🔨 What I'm working on
 
-- **[TheListingHub](https://github.com/nickgriff99/preishare-project)** — an investment classifieds platform for passive commercial real estate. Next.js 16 (App Router), TypeScript, Tailwind v4, Framer Motion, and Supabase (Auth, Postgres, RLS). Stripe payments are next on the roadmap.
+- **[TheListingHub](https://github.com/nickgriff99/preishare-project)** — an investment classifieds platform for passive commercial real estate. Next.js 16 (App Router), TypeScript, Tailwind v4, Framer Motion, and Supabase (Auth, Postgres, RLS).
 - **[Event-Sourced Wallet](https://github.com/nickgriff99/wallet-dashboard)** — a digital wallet backend where every transaction is an append-only event. Full audit trail, time-travel balance queries, and optimistic concurrency control.
 - **[Discord Music Bot](https://github.com/nickgriff99/discord-bot)** — TypeScript bot that streams YouTube audio into voice channels, with slash commands, multi-guild support, and a React + Vite web UI served by the bot itself.
 
