@@ -1,6 +1,6 @@
 # Hello world, I'm Nick 🧙‍♂️
 
-Full-stack developer based in Provo, UT. I build web apps with React and TypeScript on the front, and I've been going deeper on the backend — most recently an event-sourced wallet system, because storing a balance is easy and *deriving* one from an immutable event log is way more interesting.
+Full-stack developer based in Provo, UT. I build web apps with React and TypeScript on the front, and I've been going deeper on the backend, most recently an event-sourced wallet system, because storing a balance is easy and *deriving* one from an immutable event log is way more interesting.
 
 My motto is "go fast and break things"... but I write tests now, so mostly things stay unbroken.
 
