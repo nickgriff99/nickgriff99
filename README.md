@@ -22,7 +22,6 @@ My motto is "go fast and break things"... but I write tests now, so mostly thing
 
 ## 🎯 Currently
 
-- 📍 Building at [Spot Parking](https://github.com/spotparking)
 - 📈 Leveling up on testing (Vitest, Playwright) and backend architecture patterns
 - 🎵 Probably listening to whatever my own Discord bot is queuing up
 - ⚔️ Sharpening fundamentals on [Codewars](https://www.codewars.com)
